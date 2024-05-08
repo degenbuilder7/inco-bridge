@@ -1,0 +1,15 @@
+inco:
+  name: inco
+  chainId: 9090
+  domainId: 9090
+  protocol: ethereum
+  rpcUrls:
+    - http: https://testnet.inco.org
+gaming:
+  name: gaming
+  chainId: 60385
+  domainId: 60385
+  protocol: ethereum
+  rpcUrls:
+    - http: " https://rpc-useful-aquamarine-rhinoceros-dufw1ydgcn.t.conduit.xyz"
+
